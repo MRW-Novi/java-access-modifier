@@ -7,7 +7,7 @@ public class Person {
         this.name = name;
     }
 
-    private String getName() {
+    protected String getName() {
         return name;
     }
 
